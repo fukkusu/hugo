@@ -58,7 +58,7 @@ weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
+copyright = "All right reserved © Janette 2024"
 footerLogo = "images/contact/widget-logo.png"
 # We're using formspree.io for form handling, paste your formspree url below
 fabformURL  = "https://fabform.io/f/JpTXRUa"
@@ -92,5 +92,5 @@ url = "https://www.pinterest.com/"
 weight = 3
 [[params.social]]
 icon = "fa-twitter-square"
-url = "https://twitter.com/"
+url = "https://twitter.com/aphasmayra"
 weight = 4
